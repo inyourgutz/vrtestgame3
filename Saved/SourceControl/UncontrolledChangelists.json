@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/Unreal Projects/locomotiontrue/VRTrueLocomotion/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"F:/Unreal Projects/locomotiontrue/VRTrueLocomotion/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"F:/Unreal Projects/locomotiontrue/VRTrueLocomotion/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/Unreal Projects/locomotiontrue/VRTrueLocomotion/Content/landscapeworld.umap",
+				"F:/Unreal Projects/locomotiontrue/VRTrueLocomotion/Content/StarterContent/Audio/Collapse01.uasset",
+				"F:/Unreal Projects/locomotiontrue/VRTrueLocomotion/Content/Characters/Ai/AiController.uasset",
+				"F:/Unreal Projects/locomotiontrue/VRTrueLocomotion/Content/Vis/AI/Base/Maps/Images/VisAI_-_Logo.uasset",
+				"F:/Unreal Projects/locomotiontrue/VRTrueLocomotion/Content/Vis/AI/Shared/Images/NewHeaderBackground.uasset",
+				"F:/Unreal Projects/locomotiontrue/VRTrueLocomotion/Content/Characters/Ai/NPC.uasset"
 			]
 		}
 	]
